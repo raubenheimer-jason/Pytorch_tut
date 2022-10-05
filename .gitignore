@@ -13,3 +13,6 @@ env.bak/
 venv.bak/
 
 /logs/
+
+# deep learning stuff
+MNIST/
