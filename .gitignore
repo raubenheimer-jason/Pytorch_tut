@@ -16,3 +16,5 @@ venv.bak/
 
 # deep learning stuff
 MNIST/
+PetImages/
+training_data.npy
